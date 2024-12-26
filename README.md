@@ -35,22 +35,6 @@
 
 ---
 
-
-## 📊 GitHub Stats
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) 
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical) 
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
-
-
----
-
-
 ## 🛠️ Technologies I Use
 
 
